@@ -2,4 +2,4 @@
  picture verification code
 
 
-<img src="Demo.jpg" alt="a"/>
+<img src="Demo.JPG" alt="a"/>
