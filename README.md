@@ -4,9 +4,7 @@
 <br>
 Demo : https://www.youtube.com/watch?v=JW1ewRZh3SY&t=1s
 <br>
-<br>
 <img src="Demo.JPG" alt="a"/>
-<br>
 <br>
 Please download "chromedriver" by your browser version 
 <br>
