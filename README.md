@@ -6,7 +6,7 @@ Demo : https://www.youtube.com/watch?v=JW1ewRZh3SY&t=1s
 <br>
 <img src="Demo.JPG" alt="a"/>
 <br>
-Please download "chromedriver" by your browser version 
+Please download "chromedriver" depend on your browser version 
 <br>
 Link : https://chromedriver.chromium.org/downloads
 <br>
